@@ -238,3 +238,4 @@ E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYH
 E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CopyComplete
 E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.exe
 E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.pdb
+E:\wrok.lmq\work\my\WPF\XyhisOaTools-develop\src\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.xml

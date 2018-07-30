@@ -5,14 +5,23 @@
                       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                       xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
                       mc:Ignorable="d" Title="Xyhis.OA 小工具 7.1.6" Height="450" Width="800">
+
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands ShowLastSeparator="False">
+            <Button Click="Button_Click"
+                    Content="获取源代码"
+                    ToolTip="从我的GitHub上获取此工具的源代码" />
+            <Button Click="Button_Click_1"
+                    Content="请联系我"
+                    ToolTip="有问题，有需求，QQ与我聊天" />
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+
     <Grid x:Name="gPanel" ButtonBase.Click="gPanel_Click">
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
         <Controls:TransitioningContentControl x:Name="transitioning" Transition="Down" />
-        <!--<StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right">
-            <Controls:ToggleSwitch x:Name="ctsSysTheme" Content="深色主题" IsChecked="True"/>
-        </StackPanel>-->
     </Grid>
 </Controls:MetroWindow>

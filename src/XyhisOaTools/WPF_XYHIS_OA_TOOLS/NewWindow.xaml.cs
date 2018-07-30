@@ -213,5 +213,15 @@ namespace WPF_XYHIS_OA_TOOLS
         #region 局部变量
 
         #endregion
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/Li-Niansi/XyhisOaTools-develop");
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://wpa.qq.com/msgrd?v=3&uin=202980469&site=qq&menu=yes");
+        }
     }
 }
