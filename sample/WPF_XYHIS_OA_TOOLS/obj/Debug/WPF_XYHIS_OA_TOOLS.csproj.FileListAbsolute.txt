@@ -1,0 +1,240 @@
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\App.g.cs
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.Properties.Resources.resources
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.GenerateResource.cache
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CoreCompileInputs.cache
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\ControlzEx.dll
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.dll
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\System.Windows.Interactivity.dll
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\ControlzEx.pdb
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.pdb
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.xml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\App.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CopyComplete
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\NewWindow.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\NewWindow.g.cs
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\TaskManage.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\TaskManage.g.cs
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\TrainManage.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\TrainManage.g.cs
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\SatisfactoryCheck.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\SatisfactoryCheck.g.cs
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.dll
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OOXML.dll
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OpenXml4Net.dll
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.xml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\RecruitManage.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\RecruitManage.g.cs
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.dll
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.xml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\KeyboardTool.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\KeyboardTool.g.cs
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\WrodToPDFTool.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\WrodToPDFTool.g.cs
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\Resources\Icons.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\Resources\IconsNonShared.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\UserSignup.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\UserSignup.g.cs
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\Workbench.baml
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\Workbench.g.cs
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csprojAssemblyReference.cache
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.exe.config
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.exe
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.pdb
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools_MarkupCompile.cache
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.g.resources
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.exe
+E:\_Test\XYHIS_OA_TOOLS\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.pdb
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.exe.config
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.exe
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.pdb
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\ControlzEx.dll
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.dll
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.dll
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.dll
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OOXML.dll
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OpenXml4Net.dll
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\System.Windows.Interactivity.dll
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\ControlzEx.pdb
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.xml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.pdb
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.xml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.xml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csprojAssemblyReference.cache
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\KeyboardTool.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\RecruitManage.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Resources\Icons.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Resources\IconsNonShared.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\SatisfactoryCheck.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TaskManage.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\NewWindow.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TrainManage.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\UserSignup.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Workbench.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WrodToPDFTool.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\App.baml
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\KeyboardTool.g.cs
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\RecruitManage.g.cs
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\SatisfactoryCheck.g.cs
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TaskManage.g.cs
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\NewWindow.g.cs
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TrainManage.g.cs
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\UserSignup.g.cs
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Workbench.g.cs
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WrodToPDFTool.g.cs
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\App.g.cs
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools_MarkupCompile.cache
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.g.resources
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.Properties.Resources.resources
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.GenerateResource.cache
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CoreCompileInputs.cache
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CopyComplete
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.exe
+G:\wrok.lmq\2.test\0.dome\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.pdb
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.exe.config
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.exe
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.pdb
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\ControlzEx.dll
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.dll
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.dll
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.dll
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OOXML.dll
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OpenXml4Net.dll
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\System.Windows.Interactivity.dll
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\ControlzEx.pdb
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.xml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.pdb
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.xml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.xml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csprojAssemblyReference.cache
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\KeyboardTool.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\RecruitManage.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Resources\Icons.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Resources\IconsNonShared.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\SatisfactoryCheck.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TaskManage.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\NewWindow.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TrainManage.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\UserSignup.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Workbench.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WrodToPDFTool.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\App.baml
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\KeyboardTool.g.cs
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\RecruitManage.g.cs
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\SatisfactoryCheck.g.cs
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TaskManage.g.cs
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\NewWindow.g.cs
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TrainManage.g.cs
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\UserSignup.g.cs
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Workbench.g.cs
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WrodToPDFTool.g.cs
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\App.g.cs
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools_MarkupCompile.cache
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.g.resources
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.Properties.Resources.resources
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.GenerateResource.cache
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CoreCompileInputs.cache
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CopyComplete
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.exe
+G:\wrok.lmq\2.test\0.Demo\WinForm or WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.pdb
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.exe.config
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.exe
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.pdb
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\ControlzEx.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OOXML.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OpenXml4Net.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\System.Windows.Interactivity.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\ControlzEx.pdb
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.xml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.pdb
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.xml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.xml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csprojAssemblyReference.cache
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\KeyboardTool.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\RecruitManage.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Resources\Icons.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Resources\IconsNonShared.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\SatisfactoryCheck.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TaskManage.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\NewWindow.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TrainManage.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\UserSignup.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Workbench.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WrodToPDFTool.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\App.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\KeyboardTool.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\RecruitManage.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\SatisfactoryCheck.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TaskManage.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\NewWindow.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\TrainManage.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\UserSignup.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\Workbench.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WrodToPDFTool.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\App.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools_MarkupCompile.cache
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.g.resources
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.Properties.Resources.resources
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.GenerateResource.cache
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CoreCompileInputs.cache
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CopyComplete
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.exe
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.pdb
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.exe.config
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.exe
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\XyhisOaTools.pdb
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\ControlzEx.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OOXML.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OpenXml4Net.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\System.Windows.Interactivity.dll
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\ControlzEx.pdb
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\itextsharp.xml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.pdb
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\MahApps.Metro.xml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\bin\Debug\NPOI.xml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csprojAssemblyReference.cache
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\KeyboardTool.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\RecruitManage.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\Resources\Icons.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\Resources\IconsNonShared.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\SatisfactoryCheck.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\TaskManage.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\NewWindow.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\TrainManage.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\UserSignup.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\Workbench.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\WrodToPDFTool.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\App.baml
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\KeyboardTool.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\RecruitManage.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\SatisfactoryCheck.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\TaskManage.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\NewWindow.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\TrainManage.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\UserSignup.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\Workbench.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\WrodToPDFTool.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\App.g.cs
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools_MarkupCompile.cache
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.g.resources
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.Properties.Resources.resources
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.GenerateResource.cache
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CoreCompileInputs.cache
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\WPF_XYHIS_OA_TOOLS.csproj.CopyComplete
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.exe
+E:\wrok.lmq\work\my\WPF\XyhisOaTools\sample\WPF_XYHIS_OA_TOOLS\obj\Debug\XyhisOaTools.pdb

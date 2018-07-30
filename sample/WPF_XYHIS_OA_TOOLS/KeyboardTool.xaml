@@ -1,0 +1,30 @@
+﻿<Controls:MetroWindow x:Class="WPF_XYHIS_OA_TOOLS.KeyboardTool"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                      mc:Ignorable="d" Title="Xyhis.OA - 键盘精灵 (Beta)" Height="450" Width="800">
+    <Grid x:Name="gPanel" Background="#1A1A1A" ButtonBase.Click="gPanel_Click">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="180"/>
+        </Grid.RowDefinitions>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="tbCount" Text="0" FontSize="100" Foreground="#FF8C00"/>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock x:Name="tbGoTime" Text="00:00:00" FontSize="45" Foreground="#FF8C00"/>
+            </StackPanel>
+            <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+                <Button x:Name="btnGo" Content="开始" FontSize="22" BorderBrush="#FF8C00" Foreground="#FF8C00" Style="{DynamicResource MetroCircleButtonStyle}" Width="100" Height="100"/>
+                <Button x:Name="btnEnd" Content="结束" FontSize="22" BorderBrush="#FF8C00" Foreground="#FF8C00" Style="{DynamicResource MetroCircleButtonStyle}" Width="100" Height="100"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Controls:MetroWindow>

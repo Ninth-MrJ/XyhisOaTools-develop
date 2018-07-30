@@ -1,0 +1,34 @@
+﻿<Controls:MetroWindow x:Class="WPF_XYHIS_OA_TOOLS.WrodToPDFTool"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                      GlowBrush="{DynamicResource AccentColorBrush}"
+                      mc:Ignorable="d" Title="Xyhis.OA - Wrod文档转换为PDF文档" Height="450" Width="800">
+    <Grid>
+        <StackPanel x:Name="sPanel" Margin="5">
+            <StackPanel HorizontalAlignment="Left" Orientation="Horizontal">
+                <Button x:Name="btnSelectFile" Width="80" Content="选择文件" Click="btnSelectFile_Click"/>
+                <Button x:Name="btnGo" Width="80" Content="立即开始" Margin="5 0 0 0" Click="btnGo_Click"/>
+            </StackPanel>
+            <DataGrid x:Name="dgFileInfo" Grid.Column="1" AutoGenerateColumns="False" Margin="0 5 0 0">
+                <DataGrid.Columns>
+                    <DataGridCheckBoxColumn ElementStyle="{DynamicResource MetroDataGridCheckBox}"
+                                        EditingElementStyle="{DynamicResource MetroDataGridCheckBox}"
+                                        Header="选择"
+                                        Binding="{Binding IsSelected}"
+                                        />
+                    <DataGridTextColumn Header="文件名"
+                                    Binding="{Binding FileName}"
+                                    />
+                    <DataGridTextColumn Header="文件路径"
+                                    MinWidth="300"
+                                    Binding="{Binding FilePath}"
+                                    />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <Controls:ProgressRing x:Name="prgLoding" Foreground="{DynamicResource AccentColorBrush}" IsActive="False"/>
+    </Grid>
+</Controls:MetroWindow>
